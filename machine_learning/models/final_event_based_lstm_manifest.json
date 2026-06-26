@@ -1,0 +1,39 @@
+{
+  "final_model_family": "Final Event-Based LSTM",
+  "description": "Shared selected-event LSTM trained from Node 1 and Node 2 selected rainfall-event sequences.",
+  "models": [
+    {
+      "model_name": "final_event_based_lstm_seq12_h1",
+      "file": "output/ml/models/final_event_based_lstm_seq12_h1.pt",
+      "input_window_hours": 12,
+      "forecast_horizon_hours": 1,
+      "target": "future canal water-level change",
+      "test_rows": 34,
+      "lstm_rmse_cm": 2.573926448822021,
+      "baseline_rmse_cm": 4.982099533081055,
+      "rmse_percent_improvement": 48.336510908078125
+    },
+    {
+      "model_name": "final_event_based_lstm_seq12_h2",
+      "file": "output/ml/models/final_event_based_lstm_seq12_h2.pt",
+      "input_window_hours": 12,
+      "forecast_horizon_hours": 2,
+      "target": "future canal water-level change",
+      "test_rows": 30,
+      "lstm_rmse_cm": 3.014589786529541,
+      "baseline_rmse_cm": 9.33945655822754,
+      "rmse_percent_improvement": 67.72200001429574
+    },
+    {
+      "model_name": "final_event_based_lstm_seq12_h3",
+      "file": "output/ml/models/final_event_based_lstm_seq12_h3.pt",
+      "input_window_hours": 12,
+      "forecast_horizon_hours": 3,
+      "target": "future canal water-level change",
+      "test_rows": 26,
+      "lstm_rmse_cm": 3.616560459136963,
+      "baseline_rmse_cm": 13.89357566833496,
+      "rmse_percent_improvement": 73.96954862109749
+    }
+  ]
+}

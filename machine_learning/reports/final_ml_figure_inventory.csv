@@ -1,0 +1,6 @@
+figure,purpose,paper_section
+final_lstm_workflow.png,Explains the event-based LSTM data flow.,Chapter 4 Machine Learning Methodology
+final_lstm_sequence_horizon_rmse_comparison.png,Shows sequence-length tuning across forecast horizons.,Chapter 5 Model Evaluation
+final_lstm_best_horizon_rmse.png,Compares final LSTM performance with the zero-change baseline.,Chapter 5 Model Evaluation
+final_lstm_single_event_prediction_example.png,Shows one selected event with observed and LSTM-predicted canal water level.,Chapter 5 Model Evaluation
+redeployed_selected_event_change_inference_seq12_h1.png,Shows dry/light-rain deployment validation and supports gated LSTM activation.,Chapter 5 Deployment Validation

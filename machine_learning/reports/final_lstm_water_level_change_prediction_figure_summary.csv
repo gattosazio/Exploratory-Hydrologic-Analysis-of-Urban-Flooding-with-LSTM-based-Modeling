@@ -1,0 +1,3 @@
+output,path,source_csv,selected_event_id,node_id,forecast_horizon,input_window
+single_event_figure,output\ml\figures\final_lstm_single_event_water_level_change_prediction.png,output\ml\reports\selected_event_change_lstm_seq12_h1_predictions.csv,10,Node2,1 hour,12 hours
+test_event_panel_figure,output\ml\figures\final_lstm_test_events_water_level_change_prediction_panels.png,output\ml\reports\selected_event_change_lstm_seq12_h1_predictions.csv,test_events,test_nodes,1 hour,12 hours
