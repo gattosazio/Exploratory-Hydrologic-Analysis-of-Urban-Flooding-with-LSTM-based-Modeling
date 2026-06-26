@@ -1,0 +1,22 @@
+[
+  {
+    "node_id": "Node1",
+    "baseline": "persistence_current_waterlevel",
+    "test_rows": 490,
+    "sequence_length_hours": 12,
+    "forecast_horizon_hours": 1,
+    "mae": 1.0044740961319594,
+    "rmse": 5.206841299093231,
+    "r2": 0.9183057681454648
+  },
+  {
+    "node_id": "Node2",
+    "baseline": "persistence_current_waterlevel",
+    "test_rows": 498,
+    "sequence_length_hours": 12,
+    "forecast_horizon_hours": 1,
+    "mae": 0.618356282271945,
+    "rmse": 3.949565466658652,
+    "r2": 0.9350231106345015
+  }
+]

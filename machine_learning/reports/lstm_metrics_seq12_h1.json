@@ -1,0 +1,40 @@
+[
+  {
+    "node_id": "Node1",
+    "model": "lstm",
+    "epochs_trained": 20,
+    "best_validation_loss": 0.0019918668549507856,
+    "sequence_length_hours": 12,
+    "forecast_horizon_hours": 1,
+    "test_rows": 490,
+    "train_mae": 1.5716568231582642,
+    "train_rmse": 3.8966386318206787,
+    "train_r2": 0.9020127970636003,
+    "validation_mae": 0.23479144275188446,
+    "validation_rmse": 0.5555660128593445,
+    "validation_r2": 0.7451278388945874,
+    "test_mae": 2.2475082874298096,
+    "test_rmse": 5.668839454650879,
+    "test_r2": 0.9031653170866136,
+    "model_path": "C:\\Users\\User\\.thesis\\gattio\\Hydrologic Analysis V2\\output\\ml\\models\\node1_lstm_seq12_h1.pt"
+  },
+  {
+    "node_id": "Node2",
+    "model": "lstm",
+    "epochs_trained": 24,
+    "best_validation_loss": 0.15621066093444824,
+    "sequence_length_hours": 12,
+    "forecast_horizon_hours": 1,
+    "test_rows": 498,
+    "train_mae": 2.4674713611602783,
+    "train_rmse": 5.670318603515625,
+    "train_r2": 0.9089143872560146,
+    "validation_mae": 2.912339925765991,
+    "validation_rmse": 7.425708770751953,
+    "validation_r2": 0.7082124642862015,
+    "test_mae": 3.7996013164520264,
+    "test_rmse": 8.907404899597168,
+    "test_r2": 0.6695066602906107,
+    "model_path": "C:\\Users\\User\\.thesis\\gattio\\Hydrologic Analysis V2\\output\\ml\\models\\node2_lstm_seq12_h1.pt"
+  }
+]

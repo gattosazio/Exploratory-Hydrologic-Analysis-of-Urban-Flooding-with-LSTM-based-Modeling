@@ -1,0 +1,3 @@
+node_id,baseline,test_rows,sequence_length_hours,forecast_horizon_hours,mae,rmse,r2
+Node1,persistence_current_waterlevel,490,24,2,1.8145293130239109,7.226523617083227,0.8426373847928609
+Node2,persistence_current_waterlevel,498,24,2,1.0325836680053548,5.432717704675371,0.8770596174342357
