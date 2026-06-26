@@ -1,0 +1,56 @@
+{
+  "purpose": "Selected-event LSTM dataset for future canal water-level change prediction.",
+  "sequence_length_hours": 12,
+  "forecast_horizon_hours": 2,
+  "target": "future canal_water_level - current canal_water_level",
+  "features": [
+    "rain_intensity",
+    "rain_intensity_change",
+    "total_rainfall",
+    "cumulative_total_rainfall",
+    "canal_water_level",
+    "canal_water_level_change",
+    "hours_since_event_start",
+    "is_selected_event_window"
+  ],
+  "split_rule": "Events 1-6 train, events 7-8 validation, events 9-10 test.",
+  "counts": {
+    "train": 140,
+    "validation": 32,
+    "test": 30
+  },
+  "feature_scaler": {
+    "rain_intensity": {
+      "mean": 2.52485853121779,
+      "std": 6.761473285317197
+    },
+    "rain_intensity_change": {
+      "mean": 0.01790540540540556,
+      "std": 10.803271896230783
+    },
+    "total_rainfall": {
+      "mean": 40.83175675675676,
+      "std": 164.1934571058581
+    },
+    "cumulative_total_rainfall": {
+      "mean": 685.7611486486487,
+      "std": 1206.9557600146184
+    },
+    "canal_water_level": {
+      "mean": 25.569641618340693,
+      "std": 20.29531636973732
+    },
+    "canal_water_level_change": {
+      "mean": 0.6835690393579771,
+      "std": 7.426973135489903
+    },
+    "hours_since_event_start": {
+      "mean": 6.202702702702703,
+      "std": 7.771186784960805
+    },
+    "is_selected_event_window": {
+      "mean": 0.2702702702702703,
+      "std": 0.4440993709501347
+    }
+  }
+}
