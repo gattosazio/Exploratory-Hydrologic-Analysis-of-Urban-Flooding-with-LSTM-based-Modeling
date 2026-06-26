@@ -1,0 +1,72 @@
+[
+  {
+    "selected_event_id":1,
+    "original_shared_event_id":8,
+    "event_start":"2026-02-10 14:00:00",
+    "event_end":"2026-02-10 16:00:00",
+    "event_duration_hours":3.0
+  },
+  {
+    "selected_event_id":2,
+    "original_shared_event_id":11,
+    "event_start":"2026-02-14 15:00:00",
+    "event_end":"2026-02-14 17:00:00",
+    "event_duration_hours":3.0
+  },
+  {
+    "selected_event_id":3,
+    "original_shared_event_id":13,
+    "event_start":"2026-02-21 00:00:00",
+    "event_end":"2026-02-21 04:00:00",
+    "event_duration_hours":5.0
+  },
+  {
+    "selected_event_id":4,
+    "original_shared_event_id":14,
+    "event_start":"2026-02-21 22:00:00",
+    "event_end":"2026-02-22 01:00:00",
+    "event_duration_hours":4.0
+  },
+  {
+    "selected_event_id":5,
+    "original_shared_event_id":15,
+    "event_start":"2026-02-22 07:00:00",
+    "event_end":"2026-02-22 20:00:00",
+    "event_duration_hours":14.0
+  },
+  {
+    "selected_event_id":6,
+    "original_shared_event_id":17,
+    "event_start":"2026-02-26 02:00:00",
+    "event_end":"2026-02-26 12:00:00",
+    "event_duration_hours":11.0
+  },
+  {
+    "selected_event_id":7,
+    "original_shared_event_id":20,
+    "event_start":"2026-03-06 01:00:00",
+    "event_end":"2026-03-06 03:00:00",
+    "event_duration_hours":3.0
+  },
+  {
+    "selected_event_id":8,
+    "original_shared_event_id":22,
+    "event_start":"2026-03-10 04:00:00",
+    "event_end":"2026-03-10 06:00:00",
+    "event_duration_hours":3.0
+  },
+  {
+    "selected_event_id":9,
+    "original_shared_event_id":25,
+    "event_start":"2026-04-07 11:00:00",
+    "event_end":"2026-04-07 11:00:00",
+    "event_duration_hours":1.0
+  },
+  {
+    "selected_event_id":10,
+    "original_shared_event_id":26,
+    "event_start":"2026-04-18 14:00:00",
+    "event_end":"2026-04-18 17:00:00",
+    "event_duration_hours":4.0
+  }
+]
