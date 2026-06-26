@@ -1,0 +1,7 @@
+node_id,source_record_id,timestamp,Timestamp,rainfall,rainrate,waterlevel_raw,preprocessing_flag,waterlevel_clean,waterlevel_change,rain_event_id
+Node1,-OhU8wQXNGTgq0nll72N,2025-12-27 17:33:06,2025-12-27 17:33:06,0.0,0.0,55.0,event_start_spike_corrected,27.5,-27.5,
+Node1,-OiAxxOkSv6kht5bEmfa,2026-01-05 10:23:39,2026-01-05 10:23:39,0.0,0.0,55.0,event_start_spike_corrected,32.85,0.6499999999999986,
+Node1,-OiIGysA6WP4yIXTL31s,2026-01-06 20:28:30,2026-01-06 20:28:30,0.0,0.0,53.2,event_start_spike_corrected,36.8,-14.5,
+Node1,-OizYCSwoA7fDnR5IyYq,2026-01-15 10:47:04,2026-01-15 10:47:04,0.7,4.2,55.0,event_start_spike_corrected,43.75,-11.25,
+Node1,-OjDtgtdnqGHO6tjWaBz,2026-01-18 10:19:35,2026-01-18 10:19:35,2.8,16.8,55.0,event_start_spike_corrected,25.4,-25.4,
+Node2,-Og29OobZMnpZOVkJc8C,2025-12-09 20:50:00,2025-12-09 20:50:00,1.4,8.4,100.0,physical_range_excluded,0.0,0.0,

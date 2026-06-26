@@ -1,0 +1,47 @@
+{
+  "workflow": "event_first_preprocessing_rebuild",
+  "raw_source": "C:\\Users\\User\\.thesis\\gattio\\Hydrologic Analysis V2\\github_upload_bundle_2026-06-20\\datasets\\raw\\for_hydrologic_analysis.json",
+  "raw_rows": 14138,
+  "valid_timestamp_rows": 14082,
+  "invalid_timestamp_rows": 56,
+  "duplicate_timestamp_rows_dropped": 5,
+  "node_rules": {
+    "Node1": {
+      "baseline_low": 1.0,
+      "baseline_high": 2.0,
+      "max_depth": 55.0
+    },
+    "Node2": {
+      "baseline_low": 9.0,
+      "baseline_high": 12.0,
+      "max_depth": 75.0
+    }
+  },
+  "event_gap_hours": 2,
+  "minimum_event_duration_hours": 2,
+  "shared_event_count": 26,
+  "node_summaries": {
+    "Node1": {
+      "cleaned_rows": 8887,
+      "hourly_rows": 3264,
+      "event_count": 71,
+      "preprocessing_flags": {
+        "valid": 8882,
+        "event_start_spike_corrected": 5
+      },
+      "best_positive_correlation_view": "event_46_window_pearson",
+      "best_positive_correlation": 0.9986964527797156
+    },
+    "Node2": {
+      "cleaned_rows": 5190,
+      "hourly_rows": 3316,
+      "event_count": 80,
+      "preprocessing_flags": {
+        "valid": 5189,
+        "physical_range_excluded": 1
+      },
+      "best_positive_correlation_view": "event_33_window_pearson",
+      "best_positive_correlation": 0.9905892732699794
+    }
+  }
+}
