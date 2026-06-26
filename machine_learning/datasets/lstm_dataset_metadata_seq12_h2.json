@@ -1,0 +1,174 @@
+{
+  "purpose": "LSTM-ready supervised hourly datasets for canal water-level forecasting.",
+  "leakage_rule": "Only current and historical features are used. Future event peaks and lag labels are excluded.",
+  "sequence_length_hours": 12,
+  "forecast_horizon_hours": 2,
+  "nodes": [
+    {
+      "node_id": "Node1",
+      "source": "C:\\Users\\User\\.thesis\\gattio\\Hydrologic Analysis V2\\preprocessed\\node1_hourly.csv",
+      "rows_after_target_shift": 3262,
+      "sequence_count": 3251,
+      "sequence_length_hours": 12,
+      "forecast_horizon_hours": 2,
+      "feature_columns": [
+        "rainfall",
+        "rainrate",
+        "waterlevel_clean",
+        "waterlevel_change",
+        "rainrate_change",
+        "rainfall_cum_3h",
+        "rainrate_cum_3h",
+        "rainfall_cum_6h",
+        "rainrate_cum_6h",
+        "rainfall_cum_12h",
+        "rainrate_cum_12h",
+        "rainfall_cum_24h",
+        "rainrate_cum_24h"
+      ],
+      "target_column": "waterlevel_clean",
+      "splits": {
+        "train": 2272,
+        "test": 490,
+        "validation": 489
+      },
+      "feature_scaler": {
+        "rainfall": {
+          "mean": 65.14047306176083,
+          "std": 696.1357571155025
+        },
+        "rainrate": {
+          "mean": 3.864738794326593,
+          "std": 34.29151418890769
+        },
+        "waterlevel_clean": {
+          "mean": 43.631786850921635,
+          "std": 12.496095046211304
+        },
+        "waterlevel_change": {
+          "mean": 0.0026556375439424004,
+          "std": 3.893520411812787
+        },
+        "rainrate_change": {
+          "mean": -0.1561530599638352,
+          "std": 31.186794701833307
+        },
+        "rainfall_cum_3h": {
+          "mean": 195.42141918528273,
+          "std": 1770.2390787853935
+        },
+        "rainrate_cum_3h": {
+          "mean": 11.594216382979779,
+          "std": 85.18364556071113
+        },
+        "rainfall_cum_6h": {
+          "mean": 390.84283837056427,
+          "std": 3104.6804766045093
+        },
+        "rainrate_cum_6h": {
+          "mean": 23.188432765959558,
+          "std": 148.21492496881777
+        },
+        "rainfall_cum_12h": {
+          "mean": 781.642750766535,
+          "std": 5191.590423085402
+        },
+        "rainrate_cum_12h": {
+          "mean": 46.3584686856642,
+          "std": 235.60022032598147
+        },
+        "rainfall_cum_24h": {
+          "mean": 1563.2140604467806,
+          "std": 7936.957025966877
+        },
+        "rainrate_cum_24h": {
+          "mean": 92.6957809981352,
+          "std": 355.04277136428084
+        }
+      }
+    },
+    {
+      "node_id": "Node2",
+      "source": "C:\\Users\\User\\.thesis\\gattio\\Hydrologic Analysis V2\\preprocessed\\node2_hourly.csv",
+      "rows_after_target_shift": 3314,
+      "sequence_count": 3303,
+      "sequence_length_hours": 12,
+      "forecast_horizon_hours": 2,
+      "feature_columns": [
+        "rainfall",
+        "rainrate",
+        "waterlevel_clean",
+        "waterlevel_change",
+        "rainrate_change",
+        "rainfall_cum_3h",
+        "rainrate_cum_3h",
+        "rainfall_cum_6h",
+        "rainrate_cum_6h",
+        "rainfall_cum_12h",
+        "rainrate_cum_12h",
+        "rainfall_cum_24h",
+        "rainrate_cum_24h"
+      ],
+      "target_column": "waterlevel_clean",
+      "splits": {
+        "train": 2308,
+        "test": 498,
+        "validation": 497
+      },
+      "feature_scaler": {
+        "rainfall": {
+          "mean": 83.04493316084519,
+          "std": 765.2701904258704
+        },
+        "rainrate": {
+          "mean": 4.951551494620195,
+          "std": 34.180837971127005
+        },
+        "waterlevel_clean": {
+          "mean": 32.14582070251101,
+          "std": 18.884060225691094
+        },
+        "waterlevel_change": {
+          "mean": 0.0067773465574241685,
+          "std": 5.756867404718503
+        },
+        "rainrate_change": {
+          "mean": -0.007330746011211674,
+          "std": 40.28747757575176
+        },
+        "rainfall_cum_3h": {
+          "mean": 249.13479948253507,
+          "std": 1812.4442140726285
+        },
+        "rainrate_cum_3h": {
+          "mean": 14.854654483860593,
+          "std": 73.83946000420048
+        },
+        "rainfall_cum_6h": {
+          "mean": 498.2695989650711,
+          "std": 2948.967440518446
+        },
+        "rainrate_cum_6h": {
+          "mean": 29.70930896772117,
+          "std": 120.79150171331186
+        },
+        "rainfall_cum_12h": {
+          "mean": 996.5391979301422,
+          "std": 4839.754118865619
+        },
+        "rainrate_cum_12h": {
+          "mean": 59.418617935442356,
+          "std": 193.44459756763172
+        },
+        "rainfall_cum_24h": {
+          "mean": 1993.0783958602844,
+          "std": 7472.4738684261165
+        },
+        "rainrate_cum_24h": {
+          "mean": 118.83723587088467,
+          "std": 296.72438413615816
+        }
+      }
+    }
+  ]
+}
