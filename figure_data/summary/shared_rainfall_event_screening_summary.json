@@ -1,0 +1,34 @@
+[
+  {
+    "stage":"Node1 selected rain events",
+    "count":71
+  },
+  {
+    "stage":"Node2 selected rain events",
+    "count":80
+  },
+  {
+    "stage":"Shared rainfall overlaps",
+    "count":26
+  },
+  {
+    "stage":"Shared lag rows",
+    "count":26
+  },
+  {
+    "stage":"Shared correlation rows",
+    "count":26
+  },
+  {
+    "stage":"Shared same-direction responses",
+    "count":16
+  },
+  {
+    "stage":"Node1 positive shared correlations",
+    "count":11
+  },
+  {
+    "stage":"Node2 positive shared correlations",
+    "count":9
+  }
+]

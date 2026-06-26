@@ -1,0 +1,16 @@
+[
+  {
+    "node_id":"Node1",
+    "rainfall":45.9604166667,
+    "rainrate":2.7426306615,
+    "waterlevel_clean":42.8675921587,
+    "waterlevel_change":0.0039068578
+  },
+  {
+    "node_id":"Node2",
+    "rainfall":92.4040410133,
+    "rainrate":7.7786165408,
+    "waterlevel_clean":36.6492702184,
+    "waterlevel_change":0.0125188537
+  }
+]

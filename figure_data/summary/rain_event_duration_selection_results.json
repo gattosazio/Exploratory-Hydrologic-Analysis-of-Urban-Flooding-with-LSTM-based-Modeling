@@ -1,0 +1,1418 @@
+[
+  {
+    "event_scope":"Node1",
+    "event_id":1,
+    "start":"2025-12-17 15:00:00",
+    "end":"2025-12-17 23:00:00",
+    "duration_hours":9.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":2,
+    "start":"2025-12-18 22:00:00",
+    "end":"2025-12-19 02:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":3,
+    "start":"2025-12-20 14:00:00",
+    "end":"2025-12-20 19:00:00",
+    "duration_hours":6.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":4,
+    "start":"2025-12-30 08:00:00",
+    "end":"2025-12-30 14:00:00",
+    "duration_hours":7.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":5,
+    "start":"2025-12-30 19:00:00",
+    "end":"2025-12-30 23:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":6,
+    "start":"2025-12-31 08:00:00",
+    "end":"2025-12-31 17:00:00",
+    "duration_hours":10.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":7,
+    "start":"2026-01-01 08:00:00",
+    "end":"2026-01-01 11:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":8,
+    "start":"2026-01-01 16:00:00",
+    "end":"2026-01-01 18:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":9,
+    "start":"2026-01-02 06:00:00",
+    "end":"2026-01-02 08:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":10,
+    "start":"2026-01-02 17:00:00",
+    "end":"2026-01-03 01:00:00",
+    "duration_hours":9.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":11,
+    "start":"2026-01-03 08:00:00",
+    "end":"2026-01-03 10:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":12,
+    "start":"2026-01-04 01:00:00",
+    "end":"2026-01-04 03:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":13,
+    "start":"2026-01-04 15:00:00",
+    "end":"2026-01-04 21:00:00",
+    "duration_hours":7.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":14,
+    "start":"2026-01-05 21:00:00",
+    "end":"2026-01-05 23:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":15,
+    "start":"2026-01-06 17:00:00",
+    "end":"2026-01-07 12:00:00",
+    "duration_hours":20.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":16,
+    "start":"2026-01-07 16:00:00",
+    "end":"2026-01-07 23:00:00",
+    "duration_hours":8.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":17,
+    "start":"2026-01-08 07:00:00",
+    "end":"2026-01-08 10:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":18,
+    "start":"2026-01-08 16:00:00",
+    "end":"2026-01-08 20:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":19,
+    "start":"2026-01-09 03:00:00",
+    "end":"2026-01-09 10:00:00",
+    "duration_hours":8.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":20,
+    "start":"2026-01-09 16:00:00",
+    "end":"2026-01-09 21:00:00",
+    "duration_hours":6.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":21,
+    "start":"2026-01-10 02:00:00",
+    "end":"2026-01-10 20:00:00",
+    "duration_hours":19.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":22,
+    "start":"2026-01-11 07:00:00",
+    "end":"2026-01-11 11:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":23,
+    "start":"2026-01-11 18:00:00",
+    "end":"2026-01-11 20:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":24,
+    "start":"2026-01-12 16:00:00",
+    "end":"2026-01-12 18:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":25,
+    "start":"2026-01-14 10:00:00",
+    "end":"2026-01-14 12:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":26,
+    "start":"2026-01-15 07:00:00",
+    "end":"2026-01-15 11:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":27,
+    "start":"2026-01-15 19:00:00",
+    "end":"2026-01-17 13:00:00",
+    "duration_hours":43.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":28,
+    "start":"2026-01-18 10:00:00",
+    "end":"2026-01-18 15:00:00",
+    "duration_hours":6.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":29,
+    "start":"2026-01-23 04:00:00",
+    "end":"2026-01-23 06:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":30,
+    "start":"2026-01-30 04:00:00",
+    "end":"2026-01-30 06:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":31,
+    "start":"2026-02-01 02:00:00",
+    "end":"2026-02-01 04:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":32,
+    "start":"2026-02-05 00:00:00",
+    "end":"2026-02-06 10:00:00",
+    "duration_hours":35.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":33,
+    "start":"2026-02-06 14:00:00",
+    "end":"2026-02-06 18:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":34,
+    "start":"2026-02-07 09:00:00",
+    "end":"2026-02-07 11:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":35,
+    "start":"2026-02-10 14:00:00",
+    "end":"2026-02-10 16:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":36,
+    "start":"2026-02-11 15:00:00",
+    "end":"2026-02-11 17:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":37,
+    "start":"2026-02-12 08:00:00",
+    "end":"2026-02-12 10:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":38,
+    "start":"2026-02-12 16:00:00",
+    "end":"2026-02-12 18:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":39,
+    "start":"2026-02-14 15:00:00",
+    "end":"2026-02-14 17:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":40,
+    "start":"2026-02-16 15:00:00",
+    "end":"2026-02-16 17:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":41,
+    "start":"2026-02-21 00:00:00",
+    "end":"2026-02-21 05:00:00",
+    "duration_hours":6.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":42,
+    "start":"2026-02-21 22:00:00",
+    "end":"2026-02-22 01:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":43,
+    "start":"2026-02-22 07:00:00",
+    "end":"2026-02-22 20:00:00",
+    "duration_hours":14.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":44,
+    "start":"2026-02-23 13:00:00",
+    "end":"2026-02-23 21:00:00",
+    "duration_hours":9.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":45,
+    "start":"2026-02-26 02:00:00",
+    "end":"2026-02-26 12:00:00",
+    "duration_hours":11.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":46,
+    "start":"2026-02-26 21:00:00",
+    "end":"2026-02-26 23:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":47,
+    "start":"2026-02-27 18:00:00",
+    "end":"2026-02-27 20:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":48,
+    "start":"2026-03-04 14:00:00",
+    "end":"2026-03-04 16:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":49,
+    "start":"2026-03-06 01:00:00",
+    "end":"2026-03-06 03:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":50,
+    "start":"2026-03-06 18:00:00",
+    "end":"2026-03-06 20:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":51,
+    "start":"2026-03-09 10:00:00",
+    "end":"2026-03-09 16:00:00",
+    "duration_hours":7.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":52,
+    "start":"2026-03-10 04:00:00",
+    "end":"2026-03-10 07:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":53,
+    "start":"2026-03-18 09:00:00",
+    "end":"2026-03-18 14:00:00",
+    "duration_hours":6.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":54,
+    "start":"2026-03-21 10:00:00",
+    "end":"2026-03-21 12:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":55,
+    "start":"2026-03-22 09:00:00",
+    "end":"2026-03-22 11:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":56,
+    "start":"2026-03-26 04:00:00",
+    "end":"2026-03-26 09:00:00",
+    "duration_hours":6.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":57,
+    "start":"2026-03-28 17:00:00",
+    "end":"2026-03-28 19:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":58,
+    "start":"2026-04-02 05:00:00",
+    "end":"2026-04-02 07:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":59,
+    "start":"2026-04-07 11:00:00",
+    "end":"2026-04-07 13:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":60,
+    "start":"2026-04-12 04:00:00",
+    "end":"2026-04-12 06:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":61,
+    "start":"2026-04-13 05:00:00",
+    "end":"2026-04-13 10:00:00",
+    "duration_hours":6.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":62,
+    "start":"2026-04-18 14:00:00",
+    "end":"2026-04-18 17:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":63,
+    "start":"2026-04-19 10:00:00",
+    "end":"2026-04-19 12:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":64,
+    "start":"2026-04-20 10:00:00",
+    "end":"2026-04-20 13:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":65,
+    "start":"2026-04-23 07:00:00",
+    "end":"2026-04-23 11:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":66,
+    "start":"2026-04-27 05:00:00",
+    "end":"2026-04-27 09:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":67,
+    "start":"2026-04-28 13:00:00",
+    "end":"2026-04-28 15:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":68,
+    "start":"2026-04-29 08:00:00",
+    "end":"2026-04-29 10:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":69,
+    "start":"2026-04-29 18:00:00",
+    "end":"2026-04-29 20:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":70,
+    "start":"2026-05-01 13:00:00",
+    "end":"2026-05-01 15:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node1",
+    "event_id":71,
+    "start":"2026-05-02 12:00:00",
+    "end":"2026-05-02 14:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":1,
+    "start":"2025-12-03 10:00:00",
+    "end":"2025-12-03 16:00:00",
+    "duration_hours":7.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":2,
+    "start":"2025-12-05 06:00:00",
+    "end":"2025-12-05 08:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":3,
+    "start":"2025-12-05 16:00:00",
+    "end":"2025-12-05 18:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":4,
+    "start":"2025-12-06 05:00:00",
+    "end":"2025-12-06 08:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":5,
+    "start":"2025-12-07 15:00:00",
+    "end":"2025-12-07 17:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":6,
+    "start":"2025-12-08 09:00:00",
+    "end":"2025-12-08 12:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":7,
+    "start":"2025-12-09 17:00:00",
+    "end":"2025-12-09 21:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":8,
+    "start":"2025-12-12 05:00:00",
+    "end":"2025-12-12 08:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":9,
+    "start":"2025-12-12 15:00:00",
+    "end":"2025-12-12 17:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":10,
+    "start":"2025-12-13 05:00:00",
+    "end":"2025-12-13 08:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":11,
+    "start":"2025-12-13 15:00:00",
+    "end":"2025-12-13 17:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":12,
+    "start":"2025-12-14 19:00:00",
+    "end":"2025-12-14 22:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":13,
+    "start":"2025-12-15 13:00:00",
+    "end":"2025-12-15 17:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":14,
+    "start":"2025-12-19 04:00:00",
+    "end":"2025-12-19 08:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":15,
+    "start":"2025-12-20 11:00:00",
+    "end":"2025-12-20 20:00:00",
+    "duration_hours":10.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":16,
+    "start":"2025-12-25 14:00:00",
+    "end":"2025-12-25 16:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":17,
+    "start":"2026-01-18 15:00:00",
+    "end":"2026-01-18 18:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":18,
+    "start":"2026-01-19 17:00:00",
+    "end":"2026-01-19 19:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":19,
+    "start":"2026-01-20 22:00:00",
+    "end":"2026-01-21 01:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":20,
+    "start":"2026-01-21 23:00:00",
+    "end":"2026-01-22 01:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":21,
+    "start":"2026-01-25 16:00:00",
+    "end":"2026-01-25 23:00:00",
+    "duration_hours":8.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":22,
+    "start":"2026-01-27 00:00:00",
+    "end":"2026-01-27 02:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":23,
+    "start":"2026-01-27 07:00:00",
+    "end":"2026-01-27 12:00:00",
+    "duration_hours":6.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":24,
+    "start":"2026-01-27 16:00:00",
+    "end":"2026-01-27 18:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":25,
+    "start":"2026-01-29 10:00:00",
+    "end":"2026-01-29 12:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":26,
+    "start":"2026-02-01 02:00:00",
+    "end":"2026-02-01 04:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":27,
+    "start":"2026-02-01 22:00:00",
+    "end":"2026-02-02 00:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":28,
+    "start":"2026-02-03 16:00:00",
+    "end":"2026-02-04 06:00:00",
+    "duration_hours":15.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":29,
+    "start":"2026-02-04 15:00:00",
+    "end":"2026-02-05 00:00:00",
+    "duration_hours":10.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":30,
+    "start":"2026-02-05 10:00:00",
+    "end":"2026-02-05 12:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":31,
+    "start":"2026-02-05 16:00:00",
+    "end":"2026-02-06 23:00:00",
+    "duration_hours":32.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":32,
+    "start":"2026-02-07 13:00:00",
+    "end":"2026-02-07 15:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":33,
+    "start":"2026-02-08 21:00:00",
+    "end":"2026-02-08 23:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":34,
+    "start":"2026-02-09 13:00:00",
+    "end":"2026-02-09 15:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":35,
+    "start":"2026-02-09 23:00:00",
+    "end":"2026-02-10 01:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":36,
+    "start":"2026-02-10 14:00:00",
+    "end":"2026-02-10 16:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":37,
+    "start":"2026-02-10 23:00:00",
+    "end":"2026-02-11 01:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":38,
+    "start":"2026-02-11 11:00:00",
+    "end":"2026-02-11 17:00:00",
+    "duration_hours":7.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":39,
+    "start":"2026-02-11 22:00:00",
+    "end":"2026-02-12 00:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":40,
+    "start":"2026-02-12 16:00:00",
+    "end":"2026-02-12 18:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":41,
+    "start":"2026-02-13 01:00:00",
+    "end":"2026-02-13 05:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":42,
+    "start":"2026-02-13 12:00:00",
+    "end":"2026-02-13 14:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":43,
+    "start":"2026-02-14 15:00:00",
+    "end":"2026-02-14 17:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":44,
+    "start":"2026-02-16 15:00:00",
+    "end":"2026-02-16 17:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":45,
+    "start":"2026-02-16 21:00:00",
+    "end":"2026-02-16 23:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":46,
+    "start":"2026-02-18 18:00:00",
+    "end":"2026-02-18 20:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":47,
+    "start":"2026-02-19 11:00:00",
+    "end":"2026-02-19 13:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":48,
+    "start":"2026-02-20 03:00:00",
+    "end":"2026-02-20 07:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":49,
+    "start":"2026-02-21 00:00:00",
+    "end":"2026-02-21 04:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":50,
+    "start":"2026-02-21 11:00:00",
+    "end":"2026-02-21 15:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":51,
+    "start":"2026-02-21 21:00:00",
+    "end":"2026-02-22 01:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":52,
+    "start":"2026-02-22 07:00:00",
+    "end":"2026-02-22 23:00:00",
+    "duration_hours":17.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":53,
+    "start":"2026-02-23 04:00:00",
+    "end":"2026-02-23 06:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":54,
+    "start":"2026-02-23 13:00:00",
+    "end":"2026-02-23 23:00:00",
+    "duration_hours":11.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":55,
+    "start":"2026-02-25 18:00:00",
+    "end":"2026-02-25 20:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":56,
+    "start":"2026-02-26 02:00:00",
+    "end":"2026-02-26 14:00:00",
+    "duration_hours":13.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":57,
+    "start":"2026-02-27 13:00:00",
+    "end":"2026-02-27 19:00:00",
+    "duration_hours":7.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":58,
+    "start":"2026-02-28 00:00:00",
+    "end":"2026-02-28 02:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":59,
+    "start":"2026-02-28 09:00:00",
+    "end":"2026-02-28 22:00:00",
+    "duration_hours":14.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":60,
+    "start":"2026-03-01 11:00:00",
+    "end":"2026-03-01 15:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":61,
+    "start":"2026-03-04 14:00:00",
+    "end":"2026-03-04 16:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":62,
+    "start":"2026-03-06 01:00:00",
+    "end":"2026-03-06 03:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":63,
+    "start":"2026-03-06 11:00:00",
+    "end":"2026-03-06 19:00:00",
+    "duration_hours":9.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":64,
+    "start":"2026-03-10 04:00:00",
+    "end":"2026-03-10 06:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":65,
+    "start":"2026-03-10 23:00:00",
+    "end":"2026-03-11 03:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":66,
+    "start":"2026-03-19 00:00:00",
+    "end":"2026-03-19 02:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":67,
+    "start":"2026-03-19 12:00:00",
+    "end":"2026-03-19 14:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":68,
+    "start":"2026-03-21 21:00:00",
+    "end":"2026-03-21 23:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":69,
+    "start":"2026-03-22 10:00:00",
+    "end":"2026-03-22 16:00:00",
+    "duration_hours":7.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":70,
+    "start":"2026-03-23 10:00:00",
+    "end":"2026-03-23 16:00:00",
+    "duration_hours":7.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":71,
+    "start":"2026-03-24 12:00:00",
+    "end":"2026-03-24 18:00:00",
+    "duration_hours":7.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":72,
+    "start":"2026-03-25 11:00:00",
+    "end":"2026-03-25 15:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":73,
+    "start":"2026-03-26 04:00:00",
+    "end":"2026-03-26 15:00:00",
+    "duration_hours":12.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":74,
+    "start":"2026-03-27 21:00:00",
+    "end":"2026-03-27 23:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":75,
+    "start":"2026-03-29 20:00:00",
+    "end":"2026-03-30 14:00:00",
+    "duration_hours":19.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":76,
+    "start":"2026-03-31 21:00:00",
+    "end":"2026-04-01 06:00:00",
+    "duration_hours":10.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":77,
+    "start":"2026-04-02 09:00:00",
+    "end":"2026-04-02 15:00:00",
+    "duration_hours":7.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":78,
+    "start":"2026-04-07 09:00:00",
+    "end":"2026-04-07 11:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":79,
+    "start":"2026-04-07 15:00:00",
+    "end":"2026-04-07 17:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Node2",
+    "event_id":80,
+    "start":"2026-04-18 10:00:00",
+    "end":"2026-04-18 17:00:00",
+    "duration_hours":8.0,
+    "selection_status":"selected_node_event"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":1,
+    "start":"2025-12-20 14:00:00",
+    "end":"2025-12-20 19:00:00",
+    "duration_hours":6.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":2,
+    "start":"2026-01-18 15:00:00",
+    "end":"2026-01-18 15:00:00",
+    "duration_hours":1.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":3,
+    "start":"2026-02-01 02:00:00",
+    "end":"2026-02-01 04:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":4,
+    "start":"2026-02-05 00:00:00",
+    "end":"2026-02-05 00:00:00",
+    "duration_hours":1.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":5,
+    "start":"2026-02-05 10:00:00",
+    "end":"2026-02-05 12:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":6,
+    "start":"2026-02-05 16:00:00",
+    "end":"2026-02-06 10:00:00",
+    "duration_hours":19.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":7,
+    "start":"2026-02-06 14:00:00",
+    "end":"2026-02-06 18:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":8,
+    "start":"2026-02-10 14:00:00",
+    "end":"2026-02-10 16:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":9,
+    "start":"2026-02-11 15:00:00",
+    "end":"2026-02-11 17:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":10,
+    "start":"2026-02-12 16:00:00",
+    "end":"2026-02-12 18:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":11,
+    "start":"2026-02-14 15:00:00",
+    "end":"2026-02-14 17:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":12,
+    "start":"2026-02-16 15:00:00",
+    "end":"2026-02-16 17:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":13,
+    "start":"2026-02-21 00:00:00",
+    "end":"2026-02-21 04:00:00",
+    "duration_hours":5.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":14,
+    "start":"2026-02-21 22:00:00",
+    "end":"2026-02-22 01:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":15,
+    "start":"2026-02-22 07:00:00",
+    "end":"2026-02-22 20:00:00",
+    "duration_hours":14.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":16,
+    "start":"2026-02-23 13:00:00",
+    "end":"2026-02-23 21:00:00",
+    "duration_hours":9.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":17,
+    "start":"2026-02-26 02:00:00",
+    "end":"2026-02-26 12:00:00",
+    "duration_hours":11.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":18,
+    "start":"2026-02-27 18:00:00",
+    "end":"2026-02-27 19:00:00",
+    "duration_hours":2.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":19,
+    "start":"2026-03-04 14:00:00",
+    "end":"2026-03-04 16:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":20,
+    "start":"2026-03-06 01:00:00",
+    "end":"2026-03-06 03:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":21,
+    "start":"2026-03-06 18:00:00",
+    "end":"2026-03-06 19:00:00",
+    "duration_hours":2.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":22,
+    "start":"2026-03-10 04:00:00",
+    "end":"2026-03-10 06:00:00",
+    "duration_hours":3.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":23,
+    "start":"2026-03-22 10:00:00",
+    "end":"2026-03-22 11:00:00",
+    "duration_hours":2.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":24,
+    "start":"2026-03-26 04:00:00",
+    "end":"2026-03-26 09:00:00",
+    "duration_hours":6.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":25,
+    "start":"2026-04-07 11:00:00",
+    "end":"2026-04-07 11:00:00",
+    "duration_hours":1.0,
+    "selection_status":"selected_shared_overlap"
+  },
+  {
+    "event_scope":"Shared",
+    "event_id":26,
+    "start":"2026-04-18 14:00:00",
+    "end":"2026-04-18 17:00:00",
+    "duration_hours":4.0,
+    "selection_status":"selected_shared_overlap"
+  }
+]

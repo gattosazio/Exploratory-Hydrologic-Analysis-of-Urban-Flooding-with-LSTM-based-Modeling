@@ -1,0 +1,9 @@
+stage,count
+Node1 selected rain events,71
+Node2 selected rain events,80
+Shared rainfall overlaps,26
+Shared lag rows,26
+Shared correlation rows,26
+Shared same-direction responses,16
+Node1 positive shared correlations,11
+Node2 positive shared correlations,9
