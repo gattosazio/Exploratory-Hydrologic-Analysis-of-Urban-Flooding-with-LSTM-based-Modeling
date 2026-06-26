@@ -7,7 +7,7 @@ This repository contains supporting datasets, figures, data analysis pipelines, 
 
 ## 1. Project Overview
 
-Urban flooding in Del Carmen, Iligan City represents a significant hazard that requires effective monitoring and predictive early-warning tools. Due to local infrastructure constraints, physical mitigation measures cannot be immediately deployed. This study establishes a real-time IoT monitoring system coupled with a machine-learning model to forecast short-term water-level changes, providing civil defense teams with critical lead time for emergency response.
+Urban flooding in Del Carmen, Iligan City represents a significant hazard that requires effective monitoring and predictive early-warning tools. Due to local infrastructure constraints, physical mitigation measures cannot be immediately deployed. This study establishes a real-time IoT monitoring system coupled with a machine-learning model to forecast short-term water-level changes, providing city officials & emergency responders with critical lead time for emergency response.
 
 ---
 
