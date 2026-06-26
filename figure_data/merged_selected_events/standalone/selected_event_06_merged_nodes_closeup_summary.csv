@@ -1,0 +1,2 @@
+selected_event_id,original_shared_event_id,event_date,event_start,event_end,node1_peak_to_peak_lag_h,node2_peak_to_peak_lag_h,figure_path,source_csv
+6,17,2026-02-26,2026-02-26 02:00:00,2026-02-26 12:00:00,8.0,11.0,output\figures\preprocessed-selected-events\merged_nodes\standalone\selected_event_06_merged_nodes_closeup.png,output\figure_data\preprocessed-selected-events\merged_nodes\preprocessed_selected_event_06_merged_nodes.csv
