@@ -1,0 +1,5 @@
+node_id,selected_event_id,original_shared_event_id,lag_peak_rain_intensity_to_peak_water_level_h,outlier_reason
+Node1,5,15,14.0,IQR outlier
+Node2,5,15,14.0,IQR outlier
+Node2,6,17,11.0,IQR outlier
+Node2,9,25,-2.0,IQR outlier; water-level peak precedes rain-intensity peak

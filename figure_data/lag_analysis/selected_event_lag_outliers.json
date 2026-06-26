@@ -1,0 +1,30 @@
+[
+  {
+    "node_id":"Node1",
+    "selected_event_id":5,
+    "original_shared_event_id":15,
+    "lag_peak_rain_intensity_to_peak_water_level_h":14.0,
+    "outlier_reason":"IQR outlier"
+  },
+  {
+    "node_id":"Node2",
+    "selected_event_id":5,
+    "original_shared_event_id":15,
+    "lag_peak_rain_intensity_to_peak_water_level_h":14.0,
+    "outlier_reason":"IQR outlier"
+  },
+  {
+    "node_id":"Node2",
+    "selected_event_id":6,
+    "original_shared_event_id":17,
+    "lag_peak_rain_intensity_to_peak_water_level_h":11.0,
+    "outlier_reason":"IQR outlier"
+  },
+  {
+    "node_id":"Node2",
+    "selected_event_id":9,
+    "original_shared_event_id":25,
+    "lag_peak_rain_intensity_to_peak_water_level_h":-2.0,
+    "outlier_reason":"IQR outlier; water-level peak precedes rain-intensity peak"
+  }
+]
