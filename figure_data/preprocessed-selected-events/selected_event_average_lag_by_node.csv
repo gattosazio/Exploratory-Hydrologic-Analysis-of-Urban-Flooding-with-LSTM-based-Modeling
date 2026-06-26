@@ -1,0 +1,3 @@
+node_id,selected_event_count,average_lag_peak_rain_intensity_to_peak_water_level_h,median_lag_peak_rain_intensity_to_peak_water_level_h,average_lag_from_event_start_h,median_lag_from_event_start_h
+Node1,10,4.9,3.0,2.0,2.0
+Node2,10,4.2,2.5,1.5,2.0

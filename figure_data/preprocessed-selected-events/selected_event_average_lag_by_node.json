@@ -1,0 +1,18 @@
+[
+  {
+    "node_id":"Node1",
+    "selected_event_count":10,
+    "average_lag_peak_rain_intensity_to_peak_water_level_h":4.9,
+    "median_lag_peak_rain_intensity_to_peak_water_level_h":3.0,
+    "average_lag_from_event_start_h":2.0,
+    "median_lag_from_event_start_h":2.0
+  },
+  {
+    "node_id":"Node2",
+    "selected_event_count":10,
+    "average_lag_peak_rain_intensity_to_peak_water_level_h":4.2,
+    "median_lag_peak_rain_intensity_to_peak_water_level_h":2.5,
+    "average_lag_from_event_start_h":1.5,
+    "median_lag_from_event_start_h":2.0
+  }
+]
