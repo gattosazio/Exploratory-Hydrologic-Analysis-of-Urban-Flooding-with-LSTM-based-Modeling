@@ -1,0 +1,3 @@
+node_id,excluded_start,excluded_end,rows_before_filter,rows_removed,rows_after_filter,first_timestamp_after_filter,last_timestamp_after_filter
+Node1,2025-12-01,2026-01-18 23:59:59,3264,777,2487,2026-01-19,2026-05-02 14:00:00
+Node2,2025-12-01,2026-01-18 23:59:59,3316,1118,2198,2026-01-19,2026-04-20 13:00:00

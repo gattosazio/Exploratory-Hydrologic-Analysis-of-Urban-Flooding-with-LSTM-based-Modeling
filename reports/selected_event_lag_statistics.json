@@ -1,0 +1,24 @@
+[
+  {
+    "node_id":"Node1",
+    "event_count":10,
+    "mean_peak_lag_h":4.9,
+    "median_peak_lag_h":3.0,
+    "std_peak_lag_h":3.665151202,
+    "min_peak_lag_h":2.0,
+    "max_peak_lag_h":14.0,
+    "mean_first_response_lag_h":2.0,
+    "median_first_response_lag_h":2.0
+  },
+  {
+    "node_id":"Node2",
+    "event_count":10,
+    "mean_peak_lag_h":4.2,
+    "median_peak_lag_h":2.5,
+    "std_peak_lag_h":4.7328638265,
+    "min_peak_lag_h":-2.0,
+    "max_peak_lag_h":14.0,
+    "mean_first_response_lag_h":1.5,
+    "median_first_response_lag_h":2.0
+  }
+]

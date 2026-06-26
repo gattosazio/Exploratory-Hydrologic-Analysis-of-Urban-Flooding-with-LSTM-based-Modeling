@@ -1,0 +1,3 @@
+node_id,event_count,mean_peak_lag_h,median_peak_lag_h,std_peak_lag_h,min_peak_lag_h,max_peak_lag_h,mean_first_response_lag_h,median_first_response_lag_h
+Node1,10,4.9,3.0,3.665151201974256,2.0,14.0,2.0,2.0
+Node2,10,4.2,2.5,4.732863826479693,-2.0,14.0,1.5,2.0

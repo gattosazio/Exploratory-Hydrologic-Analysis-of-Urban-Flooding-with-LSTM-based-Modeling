@@ -1,0 +1,22 @@
+[
+  {
+    "node_id":"Node1",
+    "excluded_start":"2025-12-01T00:00:00.000",
+    "excluded_end":"2026-01-18T23:59:59.000",
+    "rows_before_filter":3264,
+    "rows_removed":777,
+    "rows_after_filter":2487,
+    "first_timestamp_after_filter":"2026-01-19T00:00:00.000",
+    "last_timestamp_after_filter":"2026-05-02T14:00:00.000"
+  },
+  {
+    "node_id":"Node2",
+    "excluded_start":"2025-12-01T00:00:00.000",
+    "excluded_end":"2026-01-18T23:59:59.000",
+    "rows_before_filter":3316,
+    "rows_removed":1118,
+    "rows_after_filter":2198,
+    "first_timestamp_after_filter":"2026-01-19T00:00:00.000",
+    "last_timestamp_after_filter":"2026-04-20T13:00:00.000"
+  }
+]
