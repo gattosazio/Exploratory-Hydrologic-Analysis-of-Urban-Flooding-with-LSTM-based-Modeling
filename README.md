@@ -1,7 +1,7 @@
 # Hydrologic Analysis & LSTM-Based Flood Forecasting
 
 This repository contains supporting datasets, figures, data analysis pipelines, and machine-learning code for the thesis study:
-**"Development of an IoT-Based Near Real-Time Precipitation Monitoring System with Machine Learning for Hydrologic Analysis of Urban Flooding in Del Carmen, Iligan City"**
+**"LAWOM: An IoT-Based Near Real-Time Precipitation Monitoring System with Machine Learning for Hydrologic Analysis of Urban Flooding in Del Carmen, Iligan City"**
 
 ---
 
